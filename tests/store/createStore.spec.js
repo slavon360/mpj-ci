@@ -15,7 +15,7 @@ describe('(Store) createStore', () => {
   })
 
   describe('(Location)', () => {
-    it('store should be initialized with Location state', () => {
+    it('store should be initialized with Location state!', () => {
       const location = {
         pathname : '/echo'
       }
